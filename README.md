@@ -1,2 +1,5 @@
 # async-sudoku-solver
-Can solve a sudoku puzzle asynchronously, speeding up the quickness to do so
+
+The purpose of this is simple, a small project that's purpose is to be a quick and efficient sudoku solver. It works by each square being aware of its own state, allowing it to check independent of other squares what number it can be.
+
+If I actually care enough about this I'll include a GUI, as well as information about how quick it solved
